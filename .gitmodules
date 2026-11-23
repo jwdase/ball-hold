@@ -1,0 +1,3 @@
+[submodule "MentalPong"]
+	path = MentalPong
+	url = https://github.com/jazlab/MentalPong.git
